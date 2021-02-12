@@ -1,0 +1,7 @@
+{
+    "name": "rei-suzy-jennie-api",
+    "filename": "suzyjennie.js",
+    "dependencies": [
+        "axios"
+    ]
+}
